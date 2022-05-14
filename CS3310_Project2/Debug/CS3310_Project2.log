@@ -1,0 +1,27 @@
+﻿  Source.cpp
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(125,13): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(125,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(126,13): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(126,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(127,13): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(127,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(128,13): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(128,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(271,13): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(271,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(272,13): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(272,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(273,13): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(273,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(274,13): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(274,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(367,13): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(367,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(368,13): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(368,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(369,13): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(369,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(370,13): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Source.cpp(370,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CS3310_Project2.vcxproj -> C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Debug\CS3310_Project2.exe

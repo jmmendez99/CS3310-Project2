@@ -1,0 +1,2 @@
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Debug\CS3310_Project2.exe
+C:\Users\Justin\Documents\Visual Studio 2019\Projects\CS3310_Project2\Debug\CS3310_Project2.pdb
